@@ -16,9 +16,12 @@ organized? How would branches help?
 Saves one, create an another.
 
 How do the diagrams help you visualize the branch structure?
+1000 Bilder sagen meist mehr als wenige Worte, oder so ähnlich.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+One branch with the commit of both. Sorted by time. Git show commitID will open parent
+Part2: super diagram.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
