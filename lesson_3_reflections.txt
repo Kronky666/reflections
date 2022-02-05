@@ -29,4 +29,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Wie immer, master soll sauber sein. Und wegen der Tortur wenn mehrere an einer Datei arbeiten. 
+
+
+
+    
