@@ -31,6 +31,8 @@ master?  What benefits does each approach have?
 
 Wie immer, master soll sauber sein. Und wegen der Tortur wenn mehrere an einer Datei arbeiten. 
 
+Etwas schreiben, dann hochladen.
+
 
 
     
