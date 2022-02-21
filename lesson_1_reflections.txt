@@ -34,3 +34,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
     Shit, I can not use Git, cause I am flying and can not use my computer. I feel sooo free having Git now. I am not frighting to make large changes(if I will ever reach my computer).
 
 Aber ich füge etwas hinzu um GitHub zu testen.
+Und nochmal etwas hinzugefügt, um von lokal zu pullen
